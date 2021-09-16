@@ -1,0 +1,6 @@
+https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
+https://github.com/AndreiMisiukevich/CardView
+https://github.com/Kinnara/ModernWpf
+https://github.com/Carlos487/awesome-wpf#general
+https://github.com/lilcodelab/Xamarin.Plugin.Calendar
+https://github.com/Baseflow/XF-Material-Library#app-bar-customization
